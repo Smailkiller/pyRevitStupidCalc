@@ -1,0 +1,12 @@
+name: MyCalculator
+author: Ваше Имя
+description: Простой калькулятор для Revit на pyRevit + IronPython + WPF
+version: 1.0
+revit:
+  - 2021
+  - 2022
+  - 2023
+  - 2024
+extension:
+  commands:
+    - script.py
